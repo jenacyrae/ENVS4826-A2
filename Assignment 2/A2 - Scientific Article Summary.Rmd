@@ -12,11 +12,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Introduction
 
-Just when it seemed 2020 couldn't get worse, we were hit with the news in late May that giant "murder hornets" were invading North America and would soon be terrorizing our backyards. Although these Asian giant hornets, which are the largest species on Earth, do not pose as much of a dangerous threat to humans as popular media would lead you to believe, there are still severe implications to their invasion of North America which makes it very important to understand and control their spread. A recent scientific paper by Zhu et al. aims to do just that, using scientific modelling to determine their possible niches and measure the potential extent of their dispersion into North America.
+Just when it seemed 2020 couldn't get worse, we were hit with the news in late May that giant "murder hornets" were invading North America and would soon be terrorizing our backyards. Although these Asian giant hornets, which are the largest species on Earth, do not pose as much of a dangerous threat to humans as popular media would lead you to believe, there are still severe implications to their invasion of North America. The most significant threat of the Asian giant hornet, scientific name *V. mandarinia*, is that it is a known predator of honeybees, which provide important ecosystem services such as pollination. Therefore, it is very important that we are able to explore and control the spread of *V. mandarinia*. A recent scientific paper by Zhu et al. aims to do just that, using scientific modelling to determine their possible niches and measure the potential extent of their dispersion into North America.
 
 ### Methods
 
-Methods text goes here.
+In order to develop global models of the distribution 
 
 ### Results and Conclusion
 ``` {r, echo = -1, fig.cap = "Figure 1: The proposed relationship between human footprint and climate suitability"}
@@ -26,7 +26,7 @@ plot(0:1, type = "l", xlab = "Climate suitability", ylab = "Human footprint")
 
 Results/conclusion text goes here.
 
-![Figure 2: A model of the estimated dispersion of V. mandarinia over the next 20 years under two different scenarios: Scenario A, which accounts for short distance disperal only; and Scenario B - which accounts for both short and long distance dispersal.](images/figure.png)
+![Figure 2: A model of the estimated dispersion of *V. mandarinia* over the next 20 years under two different scenarios: Scenario A, which accounts for short distance disperal only; and Scenario B - which accounts for both short and long distance dispersal.](images/figure.png)
 
 ### Bibliography
 
