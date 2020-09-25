@@ -19,15 +19,14 @@ Just when it seemed 2020 couldn't get worse, we were hit with the news in late M
 Methods text goes here.
 
 ## Results and Conclusion
-
-``` {r, echo = -1, fig.cap = "Figure 1 caption goes here."}
+``` {r, echo = -1, fig.cap = "Figure 1: The proposed relationship between human footprint and climate suitability"}
 plot(0:1, type = "l", xlab = "Climate suitability", ylab = "Human footprint")
 ```
 
 
 Results/conclusion text goes here.
 
-![Figure 2 caption goes here](images/figure.png)
+![Figure 2: A model of the estimated dispersion of V. mandarinia over the next 20 years under two different scenarios: Scenario A, which accounts for short distance disperal only; and Scenario B - which accounts for both short and long distance dispersal.](images/figure.png)
 
 ## Bibliography
 
