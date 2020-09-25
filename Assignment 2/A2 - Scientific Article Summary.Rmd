@@ -23,7 +23,11 @@ Methods text goes here.
 Results/conclusion text goes here.
 
 ![alt text here](images/figure.png)
+``` {r }
+plot(0:1, type = "l", xlab = "Climate suitability", ylab = "Human footprint")
+```
 
-## Bibliography 
+## Bibliography
 
 Bibliography goes here.
+
