@@ -20,12 +20,14 @@ Methods text goes here.
 
 ## Results and Conclusion
 
-Results/conclusion text goes here.
-
-![alt text here](images/figure.png)
-``` {r }
+``` {r, echo = -1, fig.cap = "Figure 1 caption goes here."}
 plot(0:1, type = "l", xlab = "Climate suitability", ylab = "Human footprint")
 ```
+
+
+Results/conclusion text goes here.
+
+![Figure 2 caption goes here](images/figure.png)
 
 ## Bibliography
 
