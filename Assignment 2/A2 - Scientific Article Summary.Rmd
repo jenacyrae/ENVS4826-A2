@@ -22,6 +22,8 @@ Methods text goes here.
 
 Results/conclusion text goes here.
 
+![alt text here](images/figure.png)
+
 ## Bibliography 
 
 Bibliography goes here.
