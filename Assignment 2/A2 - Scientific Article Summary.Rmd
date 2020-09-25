@@ -24,7 +24,7 @@ plot(0:1, type = "l", xlab = "Climate suitability", ylab = "Human footprint")
 ```
 
 
-Human footprint and climate suitability were found to be two of the greatest factors predicting where *V. mandarinia* will spread in the future on a global scale. Greater values of both human footprint and climate suitability result in the areas most vulnerable to future invasion of *V. mandarinia*. 
+Human footprint and climate suitability were found to be two of the greatest factors predicting where *V. mandarinia* will spread in the future on a global scale. Greater values of both human footprint and climate suitability result in the areas most vulnerable to future invasion of *V. mandarinia*. This relationship can be seen above in Figure 1. Additionally, their habitat suitability models showed that much of the habitat along the coasts of North America is suitable for expansion of *V. mandarinia*, and that the current introductions to the West Coast could spread as far as the entire coast of Oregon in 20 years or less. This expansion estimate is mapped in Figure 2 below. 
 
 ![**Figure 2:** A model of the estimated dispersion of *V. mandarinia* over the next 20 years under two different scenarios: Scenario A, which accounts for short distance disperal only; and Scenario B - which accounts for both short and long distance dispersal.](images/figure.png)
 
