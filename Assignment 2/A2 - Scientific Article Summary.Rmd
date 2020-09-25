@@ -1,5 +1,6 @@
 ---
 title: "ENVS 4826 A2 - Scientific Paper Summary"
+subtitle: "GitHub: [link](https://github.com/jenacyrae/ENVS4826-A2)"
 author: "Jenacy Samways"
 date: "25/09/2020"
 output: html_document
