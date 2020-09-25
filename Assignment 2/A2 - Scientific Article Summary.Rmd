@@ -19,14 +19,16 @@ Just when it seemed 2020 couldn't get worse, we were hit with the news in late M
 In order to develop global models of the expected distribution of *V. mandarinia*, many factors needed to be assessed. First, the authors obtained information on the environmental factors affecting *V. mandarinia*, covering constraints such as climate, competition, and predation. Next, they looked at the realized niches of both native and introduced populations of *V. mandarinia*. To predict the ecological niche, models were used to assess habitat suitability in North America. They also mapped human footprint with climate suitability as human-modified habitats are often more susceptible to invasion. With this information, they created a dispersal simulation which estimated the spread of *V. mandarinia* over the next twenty years under two possible dispersal scenarios - one which account for short-distance dispersal only and one which accounted for both short- and long-distance dispersal. 
 
 ### Results and Conclusion
-``` {r, echo = -1, fig.cap = "Figure 1: The proposed relationship between human footprint and climate suitability"}
+``` {r, echo = -1, fig.cap = "**Figure 1:** The proposed relationship between human footprint and climate suitability"}
 plot(0:1, type = "l", xlab = "Climate suitability", ylab = "Human footprint")
 ```
 
 
 Human footprint and climate suitability were found to be two of the greatest factors predicting where *V. mandarinia* will spread in the future on a global scale. Greater values of both human footprint and climate suitability result in the areas most vulnerable to future invasion of *V. mandarinia*. 
 
-![Figure 2: A model of the estimated dispersion of *V. mandarinia* over the next 20 years under two different scenarios: Scenario A, which accounts for short distance disperal only; and Scenario B - which accounts for both short and long distance dispersal.](images/figure.png)
+![**Figure 2:** A model of the estimated dispersion of *V. mandarinia* over the next 20 years under two different scenarios: Scenario A, which accounts for short distance disperal only; and Scenario B - which accounts for both short and long distance dispersal.](images/figure.png)
+
+In conclusion, it is clear to see that the invasion of the Asian giant hornet is an important issue for which action needs to be taken to prevent its future spread. This species' recent introduction to North America needs to be closely monitored, and every effort should be made to eradicate *V. mandarinia* before it can spread futher. Finally, areas which are vulnerable to invasion due to their high climate suitability and high human footprint need to be carefully watched and protected as well. 
 
 ### Bibliography
 
